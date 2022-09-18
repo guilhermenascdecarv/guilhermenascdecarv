@@ -18,7 +18,6 @@
   <img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-
 <!--
 **guilhermenascdecarv/guilhermenascdecarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
