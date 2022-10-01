@@ -1,6 +1,6 @@
 <h2> Olá, eu sou o Guilherme!</h2>
 
-<a href = "https://github.com/guilhermenascdecarv/guilhermenascdecarv/"> OK </a>
+<a href = "#"> OK </a>
 
 
 <div style = "display: inline-block;">
