@@ -1,7 +1,7 @@
 <h2> Olá, eu sou o Guilherme!</h2>
 
 <div>
-	<img align="center" heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+	<img align="center" heigth="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 	<img align="center" heigth="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 	<img align="center" heigth="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
  	<img align="center" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
